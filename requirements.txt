@@ -1,6 +1,7 @@
 asgiref==3.8.1
 certifi @ file:///C:/ci/certifi_1655889035820/work/certifi
 Django==4.2.15
+django-cors-headers==4.4.0
 django-filter==24.3
 djangorestframework==3.15.2
 importlib_metadata==8.2.0
